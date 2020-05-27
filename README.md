@@ -11,3 +11,7 @@ O código fonte está na pasta `Projeto`.
 Depois de uma longa jornada no espaço, voçê se encontra próximo de Marte para sua exploração. Porém, antes, voçê precisa desviar dos asteróides de Marte.
 
 Ao realizar um pouso (até que) bem sucedido, você pode explorar o misterioso templo de Marte, a caverna do poço e indícios de uma civilização no planeta vermelho.
+
+### Controles
+
+É necessário mouse e teclado para jogar. Sem integração de controles de videogame.
